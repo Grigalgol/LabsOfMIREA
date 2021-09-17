@@ -29,12 +29,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PracticeOfMIREA" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.CircleTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laba_2.CircleTest" />
       <module name="LabsOfMIREA" />
@@ -61,10 +62,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba_3.Test" />
+      <module name="LabsOfMIREA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="laba_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CircleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +91,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631219601859</updated>
-      <workItem from="1631219604270" duration="1412000" />
+      <workItem from="1631219604270" duration="1972000" />
+      <workItem from="1631289852645" duration="11000" />
+      <workItem from="1631366170721" duration="5052000" />
+      <workItem from="1631475654003" duration="43000" />
+      <workItem from="1631894672086" duration="1961000" />
     </task>
     <servers />
   </component>
