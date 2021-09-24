@@ -36,13 +36,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba_2.CircleTest" />
+  <component name="RunManager" selected="Application.Laba8">
+    <configuration name="FruitsShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba_4.FruitsShop" />
       <module name="LabsOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba_2.*" />
+          <option name="PATTERN" value="laba_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FruitsShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba_4.FruitsShop" />
+    <configuration name="Laba8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba_8.Laba8" />
       <module name="LabsOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba_4.*" />
+          <option name="PATTERN" value="laba_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Laba8" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.FruitsShop" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CircleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <workItem from="1631949963482" duration="1651000" />
       <workItem from="1631971273430" duration="268000" />
       <workItem from="1631974318087" duration="1218000" />
-      <workItem from="1632511242680" duration="3564000" />
+      <workItem from="1632511242680" duration="4212000" />
     </task>
     <servers />
   </component>
