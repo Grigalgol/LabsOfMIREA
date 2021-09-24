@@ -1,5 +1,7 @@
 package laba_4;
 
+import java.util.ArrayList;
+
 public class FruitsShop {
 
     public static void main(String[] args) {
@@ -9,6 +11,9 @@ public class FruitsShop {
         System.out.println(apple.getPrice());
         System.out.println(banana.getPrice());
         System.out.println(orange.getPrice());
+        ArrayList<String> t = new ArrayList<String>();
+        t.add(0, "gffg");
+        System.out.println(t.get(0));
 
     }
 }
