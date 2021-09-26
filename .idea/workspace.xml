@@ -36,7 +36,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Laba8">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FruitsShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laba_4.FruitsShop" />
       <module name="LabsOfMIREA" />
@@ -64,11 +64,12 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba_1.Main" />
+      <option name="MAIN_CLASS_NAME" value="laba_5.Main" />
       <module name="LabsOfMIREA" />
+      <option name="PROGRAM_PARAMETERS" value="C:\\abcd.jpg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba_1.*" />
+          <option name="PATTERN" value="laba_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.FruitsShop" />
+      <item itemvalue="Application.Laba8" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Laba8" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.FruitsShop" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +136,14 @@
       <workItem from="1631949963482" duration="1651000" />
       <workItem from="1631971273430" duration="268000" />
       <workItem from="1631974318087" duration="1218000" />
-      <workItem from="1632511242680" duration="4212000" />
+      <workItem from="1632511242680" duration="4412000" />
+      <workItem from="1632560931251" duration="47000" />
+      <workItem from="1632575859881" duration="239000" />
+      <workItem from="1632576470645" duration="56000" />
+      <workItem from="1632661106546" duration="33000" />
+      <workItem from="1632665355970" duration="5899000" />
+      <workItem from="1632673278711" duration="151000" />
+      <workItem from="1632687116650" duration="265000" />
     </task>
     <servers />
   </component>
