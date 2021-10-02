@@ -21,7 +21,7 @@ public class Main extends JFrame {
         }
         width = bufferedImage.getWidth();
         height = bufferedImage.getHeight(); */
-        setSize(1000, 1000);
+        setSize(800, 800);
         setLayout(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

@@ -5,6 +5,7 @@ public class Apple implements Priceable{
 
     public Apple(double price) {
         this.price = price;
+
     }
 
     @Override
