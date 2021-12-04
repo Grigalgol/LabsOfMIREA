@@ -36,20 +36,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Laba6">
-    <configuration name="FruitsShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba_4.FruitsShop" />
-      <module name="LabsOfMIREA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="laba_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Laba6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laba_6.Laba6" />
       <module name="LabsOfMIREA" />
@@ -79,7 +66,6 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laba_5.Main" />
       <module name="LabsOfMIREA" />
-      <option name="PROGRAM_PARAMETERS" value="C:\\abcd.jpg" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="laba_5.*" />
@@ -103,20 +89,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba_9.Test" />
+      <module name="LabsOfMIREA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="laba_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FruitsShop" />
-      <item itemvalue="Application.Laba8" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Laba6" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Laba8" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Laba6" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Laba8" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.FruitsShop" />
+        <item itemvalue="Application.Laba6" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +149,9 @@
       <workItem from="1632842393688" duration="1672000" />
       <workItem from="1633031474874" duration="48000" />
       <workItem from="1633179049917" duration="484000" />
+      <workItem from="1638546839251" duration="4314000" />
+      <workItem from="1638623889994" duration="19000" />
+      <workItem from="1638639705616" duration="2672000" />
     </task>
     <servers />
   </component>
