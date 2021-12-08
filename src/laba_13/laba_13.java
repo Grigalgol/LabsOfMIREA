@@ -13,7 +13,7 @@ public class laba_13 {
         Calendar todayDate = new GregorianCalendar();
         System.out.println("Введите дату (день месяц год часы минуты секунды)");
         Calendar userDate = new GregorianCalendar();
-        userDate.set(Calendar.DAY_OF_MONTH, scanner.nextInt());
+        userDate.set(Calendar.DAY_OF_MONTH, scanner.nextInt()-1);
         userDate.set(Calendar.MONTH, scanner.nextInt()-1);
         userDate.set(Calendar.YEAR, scanner.nextInt());
         userDate.set(Calendar.HOUR, scanner.nextInt());

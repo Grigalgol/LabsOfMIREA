@@ -30,13 +30,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PracticeOfMIREA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="laba_14.Main" />
       <module name="LabsOfMIREA" />
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba_10.Task1" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba_11.Test" />
       <module name="LabsOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba_10.*" />
+          <option name="PATTERN" value="laba_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="laba_11.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laba_15.Test" />
       <module name="LabsOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="laba_11.*" />
+          <option name="PATTERN" value="laba_15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,19 +97,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task1" />
       <item itemvalue="Application.Test (2)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.laba_13" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.laba_13" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -148,6 +148,10 @@
       <workItem from="1638639705616" duration="8400000" />
       <workItem from="1638704118622" duration="592000" />
       <workItem from="1638776133054" duration="5681000" />
+      <workItem from="1638885352340" duration="379000" />
+      <workItem from="1638895442194" duration="1514000" />
+      <workItem from="1638908191982" duration="42000" />
+      <workItem from="1638964956820" duration="400000" />
     </task>
     <servers />
   </component>
